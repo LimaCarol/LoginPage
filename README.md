@@ -1,0 +1,1 @@
+Este recurso foi criado por mim afim de colocar em pratica meu conhecimento adquiridos em cursos com foco na programação "Front-End". O objetivo do projeto foi criar uma tela de login simples utilizando HTML e CSS.
