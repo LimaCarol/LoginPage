@@ -1,1 +1,9 @@
-Este recurso foi criado por mim afim de colocar em pratica meu conhecimento adquiridos em cursos com foco na programação "Front-End". O objetivo do projeto foi criar uma tela de login simples utilizando HTML e CSS.
+# Sistema de Login Responsivo
+
+Este é um sistema de login responsivo desenvolvido utilizando HTML e CSS para a interface do usuário.
+
+## Funcionalidades
+
+- Permite que os usuários façam login em suas contas.
+- Interface de usuário responsiva para se adaptar a diferentes tamanhos de tela.
+- Validação de entrada para garantir que os campos de usuário e senha não estejam vazios.
